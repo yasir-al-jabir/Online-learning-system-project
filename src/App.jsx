@@ -25,29 +25,15 @@ const App = () => {
           </details>
         </li>
         <li><button>Item 3</button></li>
+        <li><button>Item 3</button></li>
+        <li><button>Item 3</button></li>
       </ul>
     </div>
     <div className="navbar-end">
       <input type="text" placeholder="Search" className="input w-64 lg:w-auto" />
     </div>
   </div>
-
-  <div className="collapse-content lg:hidden z-1">
-    <ul className="menu">
-      <li><button>Item 1</button></li>
-      <li><button>Item 1</button></li>
-      <li><button>Item 1</button></li>
-      <li>
-        <button>Parent</button>
-        <ul>
-          <li><button>Submenu 1</button></li>
-          <li><button>Submenu 2</button></li>
-        </ul>
-      </li>
-      <li><button>Item 3</button></li>
-      <li><button>Item 3</button></li>
-    </ul>
-  </div>
+  
 </div>
   )
 }
