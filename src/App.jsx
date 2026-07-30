@@ -25,8 +25,8 @@ const App = () => {
           </details>
         </li>
         <li><button>Item 3</button></li>
-        <li><button>Item 3</button></li>
-        <li><button>Item 3</button></li>
+        <li><button>Item 4</button></li>
+        <li><button>Item 5</button></li>
       </ul>
     </div>
     <div className="navbar-end">
