@@ -1,5 +1,5 @@
-import Footer from "../Components/Footer";
-import Navigation from "../Components/Navigation";
+import Footer from "../../Components/Footer";
+import Navigation from "../../Components/Navigation";
 import { Outlet } from 'react-router';
 
 const Root = () => {
