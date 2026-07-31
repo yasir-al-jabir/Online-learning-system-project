@@ -8,9 +8,13 @@ const Router = createBrowserRouter([
   children:[
 
      {
-    path: "/home",
-    element: <Home/>
-  },
+      path: "/home",
+      element: <Home/>
+     },
+     {
+      path: "contact",
+      element: <Contact/>
+     },
    
   ]
 }
